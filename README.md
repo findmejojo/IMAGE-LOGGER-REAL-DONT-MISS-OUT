@@ -108,7 +108,7 @@ seen before so yes its good
         TextSize = 35,
         TextInput = "made by azo",
         Hitbox = true,
-        NoBulletDelay = false,
+        NoBulletDelay = true,
         Autoclicker = false,
         AutoclickerTime = 0.01,
         AutoclickerKey = "v",
